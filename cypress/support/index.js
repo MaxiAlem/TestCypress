@@ -15,6 +15,6 @@
 
 // Import commands.js using ES2015 syntax:
 import './commands'
-
+import './login' //podemos agrergar archivos con commands cons diferentes nombrees
 // Alternatively you can use CommonJS syntax:
 // require('./commands')
